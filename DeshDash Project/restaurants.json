@@ -1,0 +1,4058 @@
+{
+  "status": "success",
+  "endpoint": "/v1/partners",
+  "generated_at": "2026-06-08T09:14:31+06:00",
+  "count": 450,
+  "data": [
+    {
+      "restaurant_id": 1001,
+      "restaurant_name": "The Glasshouse Dining",
+      "cuisine": "Fine Dining",
+      "commission_rate": 0.24,
+      "zone": "Banani",
+      "onboarded_date": "2022-09-19",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1002,
+      "restaurant_name": "Izumi Fine Dining",
+      "cuisine": "Japanese",
+      "commission_rate": 0.25,
+      "zone": "Banani",
+      "onboarded_date": "2024-11-09",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1003,
+      "restaurant_name": "Le Jardin Dhaka",
+      "cuisine": "Seafood",
+      "commission_rate": 0.22,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-02-25",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1004,
+      "restaurant_name": "Saffron Lounge",
+      "cuisine": "Seafood",
+      "commission_rate": 0.22,
+      "zone": "Gulshan",
+      "onboarded_date": "2024-09-02",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1005,
+      "restaurant_name": "The Atrium",
+      "cuisine": "Fine Dining",
+      "commission_rate": 0.24,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-11-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1006,
+      "restaurant_name": "Casa Verde",
+      "cuisine": "Fine Dining",
+      "commission_rate": 0.24,
+      "zone": "Banani",
+      "onboarded_date": "2023-08-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1007,
+      "restaurant_name": "Oishii Teppan",
+      "cuisine": "Japanese",
+      "commission_rate": 0.2,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-08-24",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1008,
+      "restaurant_name": "Bistro Bleu",
+      "cuisine": "Steakhouse",
+      "commission_rate": 0.22,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-01-09",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1009,
+      "restaurant_name": "The Terrace Gulshan",
+      "cuisine": "Japanese",
+      "commission_rate": 0.21,
+      "zone": "Gulshan",
+      "onboarded_date": "2024-05-23",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1010,
+      "restaurant_name": "Amaranth",
+      "cuisine": "Seafood",
+      "commission_rate": 0.24,
+      "zone": "Banani",
+      "onboarded_date": "2024-10-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1011,
+      "restaurant_name": "Char Koila Prime",
+      "cuisine": "Japanese",
+      "commission_rate": 0.24,
+      "zone": "Banani",
+      "onboarded_date": "2023-04-03",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1012,
+      "restaurant_name": "The Walnut Room",
+      "cuisine": "Italian",
+      "commission_rate": 0.21,
+      "zone": "Gulshan",
+      "onboarded_date": "2024-10-21",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1013,
+      "restaurant_name": "Velluto Ristorante",
+      "cuisine": "Fine Dining",
+      "commission_rate": 0.24,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-03-09",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1014,
+      "restaurant_name": "Hibiscus Fine Dine",
+      "cuisine": "Japanese",
+      "commission_rate": 0.21,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-05-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1015,
+      "restaurant_name": "Okra House",
+      "cuisine": "Italian",
+      "commission_rate": 0.24,
+      "zone": "Banani",
+      "onboarded_date": "2022-09-24",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1016,
+      "restaurant_name": "The Pearl Continental Dine",
+      "cuisine": "Japanese",
+      "commission_rate": 0.2,
+      "zone": "Gulshan",
+      "onboarded_date": "2024-05-16",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1017,
+      "restaurant_name": "Maison de Saif",
+      "cuisine": "Italian",
+      "commission_rate": 0.24,
+      "zone": "Uttara",
+      "onboarded_date": "2025-05-31",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1018,
+      "restaurant_name": "Tandoor Royale",
+      "cuisine": "Continental",
+      "commission_rate": 0.23,
+      "zone": "Gulshan",
+      "onboarded_date": "2023-05-27",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1019,
+      "restaurant_name": "Umami Social",
+      "cuisine": "Italian",
+      "commission_rate": 0.22,
+      "zone": "Gulshan",
+      "onboarded_date": "2023-08-02",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1020,
+      "restaurant_name": "Cloud Nine Rooftop",
+      "cuisine": "Fine Dining",
+      "commission_rate": 0.24,
+      "zone": "Banani",
+      "onboarded_date": "2022-06-30",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1021,
+      "restaurant_name": "La Boheme",
+      "cuisine": "Steakhouse",
+      "commission_rate": 0.21,
+      "zone": "Banani",
+      "onboarded_date": "2022-12-30",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1022,
+      "restaurant_name": "The Brass Pot",
+      "cuisine": "Continental",
+      "commission_rate": 0.23,
+      "zone": "Gulshan",
+      "onboarded_date": "2023-10-01",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1023,
+      "restaurant_name": "Silk Route Dining",
+      "cuisine": "Italian",
+      "commission_rate": 0.25,
+      "zone": "Gulshan",
+      "onboarded_date": "2024-01-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1024,
+      "restaurant_name": "Verandah 32",
+      "cuisine": "Steakhouse",
+      "commission_rate": 0.24,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-05-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1025,
+      "restaurant_name": "Fugu Japanese Dining",
+      "cuisine": "Italian",
+      "commission_rate": 0.2,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-11-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1026,
+      "restaurant_name": "The Daily Catch Seafood",
+      "cuisine": "Seafood",
+      "commission_rate": 0.23,
+      "zone": "Banani",
+      "onboarded_date": "2023-02-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1027,
+      "restaurant_name": "Pimento",
+      "cuisine": "Seafood",
+      "commission_rate": 0.24,
+      "zone": "Gulshan",
+      "onboarded_date": "2022-11-27",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1028,
+      "restaurant_name": "Ember Steakhouse",
+      "cuisine": "Italian",
+      "commission_rate": 0.2,
+      "zone": "Gulshan",
+      "onboarded_date": "2024-06-17",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1029,
+      "restaurant_name": "Lotus Pavilion",
+      "cuisine": "Japanese",
+      "commission_rate": 0.22,
+      "zone": "Uttara",
+      "onboarded_date": "2023-01-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1030,
+      "restaurant_name": "Trellis Garden Dining",
+      "cuisine": "Continental",
+      "commission_rate": 0.25,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-06-22",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1031,
+      "restaurant_name": "Ruchi Fine Dining",
+      "cuisine": "Italian",
+      "commission_rate": 0.2,
+      "zone": "Banani",
+      "onboarded_date": "2024-01-19",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1032,
+      "restaurant_name": "Shahi Fine Dining",
+      "cuisine": "Japanese",
+      "commission_rate": 0.22,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-02-26",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1033,
+      "restaurant_name": "Old Town Fine Dining",
+      "cuisine": "Seafood",
+      "commission_rate": 0.22,
+      "zone": "Gulshan",
+      "onboarded_date": "2024-04-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1034,
+      "restaurant_name": "New Fine Dining",
+      "cuisine": "Seafood",
+      "commission_rate": 0.2,
+      "zone": "Gulshan",
+      "onboarded_date": "2024-03-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1035,
+      "restaurant_name": "Star Fine Dining",
+      "cuisine": "Japanese",
+      "commission_rate": 0.23,
+      "zone": "Banani",
+      "onboarded_date": "2022-10-31",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1036,
+      "restaurant_name": "Bismillah Fine Dining",
+      "cuisine": "Seafood",
+      "commission_rate": 0.24,
+      "zone": "Gulshan",
+      "onboarded_date": "2023-05-26",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1037,
+      "restaurant_name": "Purnima Fine Dining",
+      "cuisine": "Seafood",
+      "commission_rate": 0.21,
+      "zone": "Banani",
+      "onboarded_date": "2024-04-30",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1038,
+      "restaurant_name": "Mejban Fine Dining",
+      "cuisine": "Fine Dining",
+      "commission_rate": 0.24,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-09-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1039,
+      "restaurant_name": "Bhojon Fine Dining",
+      "cuisine": "Italian",
+      "commission_rate": 0.23,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-01-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1040,
+      "restaurant_name": "Zaika Fine Dining",
+      "cuisine": "Japanese",
+      "commission_rate": 0.22,
+      "zone": "Gulshan",
+      "onboarded_date": "2022-12-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1041,
+      "restaurant_name": "Sonar Fine Dining",
+      "cuisine": "Seafood",
+      "commission_rate": 0.24,
+      "zone": "Uttara",
+      "onboarded_date": "2024-01-23",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1042,
+      "restaurant_name": "Desi Fine Dining",
+      "cuisine": "Continental",
+      "commission_rate": 0.23,
+      "zone": "Banani",
+      "onboarded_date": "2023-07-10",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1043,
+      "restaurant_name": "Lal Fine Dining",
+      "cuisine": "Continental",
+      "commission_rate": 0.21,
+      "zone": "Uttara",
+      "onboarded_date": "2022-07-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1044,
+      "restaurant_name": "Nawab Fine Dining",
+      "cuisine": "Japanese",
+      "commission_rate": 0.21,
+      "zone": "Gulshan",
+      "onboarded_date": "2022-11-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1045,
+      "restaurant_name": "Shapla Fine Dining",
+      "cuisine": "Italian",
+      "commission_rate": 0.21,
+      "zone": "Banani",
+      "onboarded_date": "2023-07-16",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1046,
+      "restaurant_name": "Golden Fine Dining",
+      "cuisine": "Steakhouse",
+      "commission_rate": 0.21,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-10-26",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1047,
+      "restaurant_name": "Dawat Fine Dining",
+      "cuisine": "Japanese",
+      "commission_rate": 0.23,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-08-31",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1048,
+      "restaurant_name": "Madina Fine Dining",
+      "cuisine": "Fine Dining",
+      "commission_rate": 0.21,
+      "zone": "Banani",
+      "onboarded_date": "2024-11-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1049,
+      "restaurant_name": "Banglar Fine Dining",
+      "cuisine": "Seafood",
+      "commission_rate": 0.21,
+      "zone": "Gulshan",
+      "onboarded_date": "2022-09-12",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1050,
+      "restaurant_name": "Meghna Fine Dining",
+      "cuisine": "Steakhouse",
+      "commission_rate": 0.22,
+      "zone": "Banani",
+      "onboarded_date": "2023-10-22",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1051,
+      "restaurant_name": "Rahim's Fine Dining",
+      "cuisine": "Steakhouse",
+      "commission_rate": 0.25,
+      "zone": "Gulshan",
+      "onboarded_date": "2022-12-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1052,
+      "restaurant_name": "Khan's Fine Dining",
+      "cuisine": "Fine Dining",
+      "commission_rate": 0.21,
+      "zone": "Banani",
+      "onboarded_date": "2024-08-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1053,
+      "restaurant_name": "Padma Fine Dining",
+      "cuisine": "Seafood",
+      "commission_rate": 0.25,
+      "zone": "Gulshan",
+      "onboarded_date": "2024-08-20",
+      "is_active": false
+    },
+    {
+      "restaurant_id": 1054,
+      "restaurant_name": "Sultan's Fine Dining",
+      "cuisine": "Japanese",
+      "commission_rate": 0.21,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-03-01",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1055,
+      "restaurant_name": "Khaas Fine Dining",
+      "cuisine": "Steakhouse",
+      "commission_rate": 0.23,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-01-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1056,
+      "restaurant_name": "Royal Fine Dining",
+      "cuisine": "Italian",
+      "commission_rate": 0.22,
+      "zone": "Gulshan",
+      "onboarded_date": "2024-07-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1057,
+      "restaurant_name": "Al-Karim Fine Dining",
+      "cuisine": "Italian",
+      "commission_rate": 0.22,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-11-25",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1058,
+      "restaurant_name": "Jamuna Fine Dining",
+      "cuisine": "Japanese",
+      "commission_rate": 0.21,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-01-10",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1059,
+      "restaurant_name": "Mama's Fine Dining",
+      "cuisine": "Steakhouse",
+      "commission_rate": 0.24,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-08-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1060,
+      "restaurant_name": "Mughal Fine Dining",
+      "cuisine": "Steakhouse",
+      "commission_rate": 0.21,
+      "zone": "Uttara",
+      "onboarded_date": "2025-08-22",
+      "is_active": false
+    },
+    {
+      "restaurant_id": 1061,
+      "restaurant_name": "Sonar Fine Dining 2",
+      "cuisine": "Continental",
+      "commission_rate": 0.2,
+      "zone": "Gulshan",
+      "onboarded_date": "2023-12-02",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1062,
+      "restaurant_name": "Mughal Fine Dining 2",
+      "cuisine": "Steakhouse",
+      "commission_rate": 0.22,
+      "zone": "Banani",
+      "onboarded_date": "2024-06-26",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1063,
+      "restaurant_name": "Purnima Fine Dining 2",
+      "cuisine": "Continental",
+      "commission_rate": 0.24,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-07-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1064,
+      "restaurant_name": "Jamuna Fine Dining 2",
+      "cuisine": "Italian",
+      "commission_rate": 0.23,
+      "zone": "Banani",
+      "onboarded_date": "2023-03-31",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1065,
+      "restaurant_name": "Mama's Fine Dining 2",
+      "cuisine": "Seafood",
+      "commission_rate": 0.23,
+      "zone": "Gulshan",
+      "onboarded_date": "2022-10-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1066,
+      "restaurant_name": "Mughal Fine Dining 2",
+      "cuisine": "Steakhouse",
+      "commission_rate": 0.2,
+      "zone": "Gulshan",
+      "onboarded_date": "2022-08-06",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1067,
+      "restaurant_name": "Shapla Fine Dining 2",
+      "cuisine": "Steakhouse",
+      "commission_rate": 0.24,
+      "zone": "Uttara",
+      "onboarded_date": "2024-07-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1068,
+      "restaurant_name": "Golden Fine Dining 2",
+      "cuisine": "Japanese",
+      "commission_rate": 0.23,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-02-22",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1069,
+      "restaurant_name": "Khan's Fine Dining 2",
+      "cuisine": "Seafood",
+      "commission_rate": 0.22,
+      "zone": "Gulshan",
+      "onboarded_date": "2022-08-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1070,
+      "restaurant_name": "Bismillah Fine Dining 2",
+      "cuisine": "Continental",
+      "commission_rate": 0.22,
+      "zone": "Gulshan",
+      "onboarded_date": "2022-11-26",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1071,
+      "restaurant_name": "North End Roasters",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.17,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-03-29",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1072,
+      "restaurant_name": "Crimson Cup Corner",
+      "cuisine": "Chinese",
+      "commission_rate": 0.17,
+      "zone": "Gulshan",
+      "onboarded_date": "2023-06-16",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1073,
+      "restaurant_name": "Brew & Bloom",
+      "cuisine": "Chinese",
+      "commission_rate": 0.18,
+      "zone": "Banani",
+      "onboarded_date": "2024-05-08",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1074,
+      "restaurant_name": "Kava Khana",
+      "cuisine": "Pizza",
+      "commission_rate": 0.18,
+      "zone": "Gulshan",
+      "onboarded_date": "2024-04-12",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1075,
+      "restaurant_name": "Beanstalk Cafe",
+      "cuisine": "Indian",
+      "commission_rate": 0.16,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-08-23",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1076,
+      "restaurant_name": "Mocha Mill",
+      "cuisine": "Chinese",
+      "commission_rate": 0.19,
+      "zone": "Uttara",
+      "onboarded_date": "2022-09-30",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1077,
+      "restaurant_name": "The Reading Cup",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.17,
+      "zone": "Uttara",
+      "onboarded_date": "2025-11-27",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1078,
+      "restaurant_name": "Cafe 27",
+      "cuisine": "Burger",
+      "commission_rate": 0.17,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-03-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1079,
+      "restaurant_name": "Roastery Lane",
+      "cuisine": "Pizza",
+      "commission_rate": 0.17,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-01-31",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1080,
+      "restaurant_name": "Butter & Crumb Bakery",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.18,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-01-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1081,
+      "restaurant_name": "Shapla Biryani House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.15,
+      "zone": "Banani",
+      "onboarded_date": "2024-12-10",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1082,
+      "restaurant_name": "Golden Cuisine",
+      "cuisine": "Pizza",
+      "commission_rate": 0.18,
+      "zone": "Gulshan",
+      "onboarded_date": "2022-09-21",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1083,
+      "restaurant_name": "Madina Restaurant",
+      "cuisine": "Pizza",
+      "commission_rate": 0.18,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-03-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1084,
+      "restaurant_name": "Sultan's Canteen",
+      "cuisine": "Chinese",
+      "commission_rate": 0.16,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-09-10",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1085,
+      "restaurant_name": "Madina Eatery",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.18,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-09-27",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1086,
+      "restaurant_name": "Bismillah Kabab House",
+      "cuisine": "Burger",
+      "commission_rate": 0.17,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-09-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1087,
+      "restaurant_name": "Shahi Dine",
+      "cuisine": "Indian",
+      "commission_rate": 0.15,
+      "zone": "Banani",
+      "onboarded_date": "2025-06-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1088,
+      "restaurant_name": "Zaika Grill",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.18,
+      "zone": "Uttara",
+      "onboarded_date": "2024-08-24",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1089,
+      "restaurant_name": "Royal Biryani House",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.16,
+      "zone": "Uttara",
+      "onboarded_date": "2023-07-09",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1090,
+      "restaurant_name": "Mejban Kacchi Ghor",
+      "cuisine": "Burger",
+      "commission_rate": 0.18,
+      "zone": "Gulshan",
+      "onboarded_date": "2023-12-19",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1091,
+      "restaurant_name": "Old Town Bites",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.16,
+      "zone": "Gulshan",
+      "onboarded_date": "2022-07-26",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1092,
+      "restaurant_name": "Banglar Fast Food",
+      "cuisine": "Indian",
+      "commission_rate": 0.18,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2022-10-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1093,
+      "restaurant_name": "Rahim's Sweets & Snacks",
+      "cuisine": "Indian",
+      "commission_rate": 0.16,
+      "zone": "Uttara",
+      "onboarded_date": "2025-05-29",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1094,
+      "restaurant_name": "Khaas Bites",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.18,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-02-19",
+      "is_active": false
+    },
+    {
+      "restaurant_id": 1095,
+      "restaurant_name": "Rahim's Hotel & Restaurant",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.17,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-10-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1096,
+      "restaurant_name": "Meghna Canteen",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.18,
+      "zone": "Uttara",
+      "onboarded_date": "2023-04-02",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1097,
+      "restaurant_name": "Purnima Thai House",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.18,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-01-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1098,
+      "restaurant_name": "Mughal Thai House",
+      "cuisine": "Indian",
+      "commission_rate": 0.18,
+      "zone": "Banani",
+      "onboarded_date": "2023-02-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1099,
+      "restaurant_name": "Khaas Eatery",
+      "cuisine": "Indian",
+      "commission_rate": 0.18,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2022-06-21",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1100,
+      "restaurant_name": "Padma Chinese Restaurant",
+      "cuisine": "Thai",
+      "commission_rate": 0.17,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-05-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1101,
+      "restaurant_name": "Nawab Kacchi Ghor",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.19,
+      "zone": "Gulshan",
+      "onboarded_date": "2023-11-09",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1102,
+      "restaurant_name": "Sultan's Thai House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.19,
+      "zone": "Uttara",
+      "onboarded_date": "2023-01-08",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1103,
+      "restaurant_name": "Shapla Thai House",
+      "cuisine": "Indian",
+      "commission_rate": 0.17,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-04-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1104,
+      "restaurant_name": "Lal Fast Food",
+      "cuisine": "Pizza",
+      "commission_rate": 0.18,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-09-23",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1105,
+      "restaurant_name": "Nawab Eatery",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.17,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-08-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1106,
+      "restaurant_name": "Padma Fast Food",
+      "cuisine": "Thai",
+      "commission_rate": 0.16,
+      "zone": "Uttara",
+      "onboarded_date": "2024-01-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1107,
+      "restaurant_name": "Shapla Kabab House",
+      "cuisine": "Indian",
+      "commission_rate": 0.18,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2022-12-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1108,
+      "restaurant_name": "Old Town Food Corner",
+      "cuisine": "Burger",
+      "commission_rate": 0.16,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-11-06",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1109,
+      "restaurant_name": "Khaas Kabab House",
+      "cuisine": "Thai",
+      "commission_rate": 0.16,
+      "zone": "Gulshan",
+      "onboarded_date": "2023-08-24",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1110,
+      "restaurant_name": "Khaas Chinese Restaurant",
+      "cuisine": "Thai",
+      "commission_rate": 0.18,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-05-25",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1111,
+      "restaurant_name": "Dawat Sweets & Snacks",
+      "cuisine": "Pizza",
+      "commission_rate": 0.17,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-04-04",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1112,
+      "restaurant_name": "Padma Hotel & Restaurant",
+      "cuisine": "Burger",
+      "commission_rate": 0.19,
+      "zone": "Uttara",
+      "onboarded_date": "2023-09-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1113,
+      "restaurant_name": "Madina Grill",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.18,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-03-26",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1114,
+      "restaurant_name": "Desi Fast Food",
+      "cuisine": "Indian",
+      "commission_rate": 0.15,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-05-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1115,
+      "restaurant_name": "Mama's Chinese Restaurant",
+      "cuisine": "Burger",
+      "commission_rate": 0.16,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-12-22",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1116,
+      "restaurant_name": "Sonar Tehari House",
+      "cuisine": "Burger",
+      "commission_rate": 0.18,
+      "zone": "Uttara",
+      "onboarded_date": "2023-07-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1117,
+      "restaurant_name": "Banglar Tehari House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.17,
+      "zone": "Gulshan",
+      "onboarded_date": "2024-03-12",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1118,
+      "restaurant_name": "Shahi Khabar Ghor",
+      "cuisine": "Burger",
+      "commission_rate": 0.18,
+      "zone": "Banani",
+      "onboarded_date": "2023-09-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1119,
+      "restaurant_name": "Nawab Grill",
+      "cuisine": "Thai",
+      "commission_rate": 0.17,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-08-02",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1120,
+      "restaurant_name": "Jamuna Kabab House",
+      "cuisine": "Chinese",
+      "commission_rate": 0.16,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2022-06-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1121,
+      "restaurant_name": "Mughal Biryani House",
+      "cuisine": "Indian",
+      "commission_rate": 0.17,
+      "zone": "Banani",
+      "onboarded_date": "2025-03-23",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1122,
+      "restaurant_name": "Bhojon Bites",
+      "cuisine": "Indian",
+      "commission_rate": 0.17,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-11-19",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1123,
+      "restaurant_name": "Bhojon Kitchen",
+      "cuisine": "Chinese",
+      "commission_rate": 0.17,
+      "zone": "Gulshan",
+      "onboarded_date": "2023-06-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1124,
+      "restaurant_name": "Jamuna Canteen",
+      "cuisine": "Thai",
+      "commission_rate": 0.16,
+      "zone": "Uttara",
+      "onboarded_date": "2023-01-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1125,
+      "restaurant_name": "Mama's Hotel & Restaurant",
+      "cuisine": "Pizza",
+      "commission_rate": 0.17,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-05-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1126,
+      "restaurant_name": "Purnima Restaurant",
+      "cuisine": "Pizza",
+      "commission_rate": 0.18,
+      "zone": "Uttara",
+      "onboarded_date": "2023-04-08",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1127,
+      "restaurant_name": "Bismillah Fast Food",
+      "cuisine": "Chinese",
+      "commission_rate": 0.16,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-07-02",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1128,
+      "restaurant_name": "Khan's Khabar Ghor",
+      "cuisine": "Thai",
+      "commission_rate": 0.18,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-08-08",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1129,
+      "restaurant_name": "Star Fast Food",
+      "cuisine": "Chinese",
+      "commission_rate": 0.17,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-10-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1130,
+      "restaurant_name": "Bhojon Hotel & Restaurant",
+      "cuisine": "Thai",
+      "commission_rate": 0.15,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-08-10",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1131,
+      "restaurant_name": "Mughal Fast Food",
+      "cuisine": "Chinese",
+      "commission_rate": 0.16,
+      "zone": "Banani",
+      "onboarded_date": "2023-07-11",
+      "is_active": false
+    },
+    {
+      "restaurant_id": 1132,
+      "restaurant_name": "Jamuna Chinese Restaurant",
+      "cuisine": "Chinese",
+      "commission_rate": 0.17,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-02-01",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1133,
+      "restaurant_name": "New Thai House",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.16,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-04-04",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1134,
+      "restaurant_name": "Nawab Hotel & Restaurant",
+      "cuisine": "Burger",
+      "commission_rate": 0.17,
+      "zone": "Banani",
+      "onboarded_date": "2024-08-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1135,
+      "restaurant_name": "Dawat Food Corner",
+      "cuisine": "Thai",
+      "commission_rate": 0.19,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-01-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1136,
+      "restaurant_name": "Old Town Kacchi Ghor",
+      "cuisine": "Indian",
+      "commission_rate": 0.17,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-06-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1137,
+      "restaurant_name": "Rahim's Thai House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.19,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-04-17",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1138,
+      "restaurant_name": "Madina Cafe",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.15,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-12-26",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1139,
+      "restaurant_name": "Al-Karim Biryani House",
+      "cuisine": "Indian",
+      "commission_rate": 0.19,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-07-22",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1140,
+      "restaurant_name": "Ruchi Kitchen",
+      "cuisine": "Chinese",
+      "commission_rate": 0.15,
+      "zone": "Banani",
+      "onboarded_date": "2025-11-03",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1141,
+      "restaurant_name": "Shapla Tehari House",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.18,
+      "zone": "Uttara",
+      "onboarded_date": "2022-08-10",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1142,
+      "restaurant_name": "Padma Canteen",
+      "cuisine": "Indian",
+      "commission_rate": 0.18,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-09-21",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1143,
+      "restaurant_name": "Star Canteen",
+      "cuisine": "Thai",
+      "commission_rate": 0.18,
+      "zone": "Uttara",
+      "onboarded_date": "2023-10-02",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1144,
+      "restaurant_name": "Purnima Chinese Restaurant",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.18,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-08-02",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1145,
+      "restaurant_name": "Purnima Kabab House",
+      "cuisine": "Thai",
+      "commission_rate": 0.15,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-11-12",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1146,
+      "restaurant_name": "Mama's Cuisine",
+      "cuisine": "Indian",
+      "commission_rate": 0.18,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-07-21",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1147,
+      "restaurant_name": "Sonar Hotel & Restaurant",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.17,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-10-25",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1148,
+      "restaurant_name": "Star Chinese Restaurant",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.15,
+      "zone": "Gulshan",
+      "onboarded_date": "2023-05-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1149,
+      "restaurant_name": "New Cuisine",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.19,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-02-17",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1150,
+      "restaurant_name": "Padma Biryani House",
+      "cuisine": "Indian",
+      "commission_rate": 0.19,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-11-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1151,
+      "restaurant_name": "Ruchi Tehari House",
+      "cuisine": "Pizza",
+      "commission_rate": 0.19,
+      "zone": "Uttara",
+      "onboarded_date": "2023-08-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1152,
+      "restaurant_name": "Lal Bites",
+      "cuisine": "Pizza",
+      "commission_rate": 0.16,
+      "zone": "Uttara",
+      "onboarded_date": "2022-11-19",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1153,
+      "restaurant_name": "Mejban Eatery",
+      "cuisine": "Pizza",
+      "commission_rate": 0.16,
+      "zone": "Banani",
+      "onboarded_date": "2025-07-10",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1154,
+      "restaurant_name": "Dawat Thai House",
+      "cuisine": "Chinese",
+      "commission_rate": 0.16,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-10-10",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1155,
+      "restaurant_name": "Shapla Grill",
+      "cuisine": "Burger",
+      "commission_rate": 0.19,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-11-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1156,
+      "restaurant_name": "Jamuna Eatery",
+      "cuisine": "Indian",
+      "commission_rate": 0.16,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-01-06",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1157,
+      "restaurant_name": "Sultan's Kacchi Ghor",
+      "cuisine": "Indian",
+      "commission_rate": 0.18,
+      "zone": "Gulshan",
+      "onboarded_date": "2022-08-17",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1158,
+      "restaurant_name": "Royal Grill",
+      "cuisine": "Pizza",
+      "commission_rate": 0.17,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-05-19",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1159,
+      "restaurant_name": "Dawat Kabab House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.18,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-05-08",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1160,
+      "restaurant_name": "Sonar Dine",
+      "cuisine": "Pizza",
+      "commission_rate": 0.15,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-03-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1161,
+      "restaurant_name": "Ruchi Biryani House",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.17,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-09-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1162,
+      "restaurant_name": "Zaika Dine",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.16,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-10-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1163,
+      "restaurant_name": "Old Town Eatery",
+      "cuisine": "Thai",
+      "commission_rate": 0.16,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-05-26",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1164,
+      "restaurant_name": "Old Town Kabab House",
+      "cuisine": "Chinese",
+      "commission_rate": 0.18,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2022-10-21",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1165,
+      "restaurant_name": "Bhojon Dine",
+      "cuisine": "Burger",
+      "commission_rate": 0.17,
+      "zone": "Banani",
+      "onboarded_date": "2023-06-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1166,
+      "restaurant_name": "Mama's Fast Food",
+      "cuisine": "Pizza",
+      "commission_rate": 0.17,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2022-10-22",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1167,
+      "restaurant_name": "Dawat Dine",
+      "cuisine": "Chinese",
+      "commission_rate": 0.18,
+      "zone": "Banani",
+      "onboarded_date": "2024-04-09",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1168,
+      "restaurant_name": "Golden Restaurant",
+      "cuisine": "Pizza",
+      "commission_rate": 0.17,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-04-30",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1169,
+      "restaurant_name": "Mejban Khabar Ghor",
+      "cuisine": "Chinese",
+      "commission_rate": 0.19,
+      "zone": "Gulshan",
+      "onboarded_date": "2024-02-24",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1170,
+      "restaurant_name": "Khan's Eatery",
+      "cuisine": "Pizza",
+      "commission_rate": 0.15,
+      "zone": "Banani",
+      "onboarded_date": "2024-01-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1171,
+      "restaurant_name": "Sonar Cafe",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.16,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2022-12-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1172,
+      "restaurant_name": "Ruchi Kabab House",
+      "cuisine": "Burger",
+      "commission_rate": 0.17,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2022-10-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1173,
+      "restaurant_name": "Desi Tehari House",
+      "cuisine": "Chinese",
+      "commission_rate": 0.18,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-01-08",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1174,
+      "restaurant_name": "Bismillah Eatery",
+      "cuisine": "Pizza",
+      "commission_rate": 0.16,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2022-12-26",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1175,
+      "restaurant_name": "Rahim's Canteen",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.19,
+      "zone": "Uttara",
+      "onboarded_date": "2024-12-26",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1176,
+      "restaurant_name": "Rahim's Cafe",
+      "cuisine": "Indian",
+      "commission_rate": 0.17,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-04-06",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1177,
+      "restaurant_name": "Banglar Eatery",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.15,
+      "zone": "Uttara",
+      "onboarded_date": "2024-12-28",
+      "is_active": false
+    },
+    {
+      "restaurant_id": 1178,
+      "restaurant_name": "New Eatery",
+      "cuisine": "Burger",
+      "commission_rate": 0.18,
+      "zone": "Uttara",
+      "onboarded_date": "2023-08-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1179,
+      "restaurant_name": "Bhojon Tehari House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.19,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-03-30",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1180,
+      "restaurant_name": "Nawab Food Corner",
+      "cuisine": "Chinese",
+      "commission_rate": 0.16,
+      "zone": "Uttara",
+      "onboarded_date": "2022-11-09",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1181,
+      "restaurant_name": "Dawat Cafe",
+      "cuisine": "Pizza",
+      "commission_rate": 0.15,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-06-09",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1182,
+      "restaurant_name": "Meghna Cafe",
+      "cuisine": "Chinese",
+      "commission_rate": 0.19,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-06-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1183,
+      "restaurant_name": "Zaika Chinese Restaurant",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.15,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-11-16",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1184,
+      "restaurant_name": "Mughal Sweets & Snacks",
+      "cuisine": "Indian",
+      "commission_rate": 0.15,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-06-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1185,
+      "restaurant_name": "New Kacchi Ghor",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.16,
+      "zone": "Banani",
+      "onboarded_date": "2023-01-24",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1186,
+      "restaurant_name": "Madina Dine",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.18,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-05-09",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1187,
+      "restaurant_name": "Padma Cafe",
+      "cuisine": "Thai",
+      "commission_rate": 0.17,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-09-19",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1188,
+      "restaurant_name": "Padma Restaurant",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.17,
+      "zone": "Banani",
+      "onboarded_date": "2022-06-16",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1189,
+      "restaurant_name": "Mama's Tehari House",
+      "cuisine": "Indian",
+      "commission_rate": 0.18,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-09-04",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1190,
+      "restaurant_name": "Shahi Eatery",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.18,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-10-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1191,
+      "restaurant_name": "Madina Hotel & Restaurant",
+      "cuisine": "Indian",
+      "commission_rate": 0.18,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-09-04",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1192,
+      "restaurant_name": "Desi Cafe",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.18,
+      "zone": "Gulshan",
+      "onboarded_date": "2023-09-29",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1193,
+      "restaurant_name": "Khaas Fast Food",
+      "cuisine": "Burger",
+      "commission_rate": 0.19,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-06-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1194,
+      "restaurant_name": "Golden Sweets & Snacks",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.18,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-03-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1195,
+      "restaurant_name": "Royal Fast Food",
+      "cuisine": "Burger",
+      "commission_rate": 0.18,
+      "zone": "Gulshan",
+      "onboarded_date": "2024-08-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1196,
+      "restaurant_name": "Mama's Kitchen",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.17,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-10-19",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1197,
+      "restaurant_name": "Padma Sweets & Snacks",
+      "cuisine": "Thai",
+      "commission_rate": 0.17,
+      "zone": "Gulshan",
+      "onboarded_date": "2023-08-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1198,
+      "restaurant_name": "New Kitchen",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.16,
+      "zone": "Banani",
+      "onboarded_date": "2023-09-26",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1199,
+      "restaurant_name": "Star Hotel & Restaurant",
+      "cuisine": "Indian",
+      "commission_rate": 0.16,
+      "zone": "Uttara",
+      "onboarded_date": "2024-01-27",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1200,
+      "restaurant_name": "Al-Karim Food Corner",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.16,
+      "zone": "Uttara",
+      "onboarded_date": "2025-01-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1201,
+      "restaurant_name": "Zaika Hotel & Restaurant",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.16,
+      "zone": "Banani",
+      "onboarded_date": "2022-06-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1202,
+      "restaurant_name": "Mama's Eatery",
+      "cuisine": "Pizza",
+      "commission_rate": 0.17,
+      "zone": "Banani",
+      "onboarded_date": "2024-02-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1203,
+      "restaurant_name": "Bismillah Cuisine",
+      "cuisine": "Thai",
+      "commission_rate": 0.18,
+      "zone": "Banani",
+      "onboarded_date": "2025-02-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1204,
+      "restaurant_name": "Mejban Canteen",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.19,
+      "zone": "Uttara",
+      "onboarded_date": "2025-07-29",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1205,
+      "restaurant_name": "Dawat Bites",
+      "cuisine": "Indian",
+      "commission_rate": 0.17,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-04-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1206,
+      "restaurant_name": "Bhojon Kabab House",
+      "cuisine": "Pizza",
+      "commission_rate": 0.16,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-05-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1207,
+      "restaurant_name": "Bhojon Restaurant",
+      "cuisine": "Indian",
+      "commission_rate": 0.17,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-01-02",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1208,
+      "restaurant_name": "Zaika Fast Food",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.18,
+      "zone": "Banani",
+      "onboarded_date": "2023-06-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1209,
+      "restaurant_name": "Lal Eatery",
+      "cuisine": "Burger",
+      "commission_rate": 0.15,
+      "zone": "Uttara",
+      "onboarded_date": "2024-12-17",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1210,
+      "restaurant_name": "Shapla Canteen",
+      "cuisine": "Thai",
+      "commission_rate": 0.16,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2022-10-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1211,
+      "restaurant_name": "Al-Karim Thai House",
+      "cuisine": "Indian",
+      "commission_rate": 0.18,
+      "zone": "Banani",
+      "onboarded_date": "2024-06-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1212,
+      "restaurant_name": "Al-Karim Kitchen",
+      "cuisine": "Pizza",
+      "commission_rate": 0.16,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-06-24",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1213,
+      "restaurant_name": "Madina Kabab House",
+      "cuisine": "Thai",
+      "commission_rate": 0.19,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-07-26",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1214,
+      "restaurant_name": "Golden Dine",
+      "cuisine": "Indian",
+      "commission_rate": 0.17,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-03-24",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1215,
+      "restaurant_name": "Al-Karim Fast Food",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.19,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-05-03",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1216,
+      "restaurant_name": "Old Town Chinese Restaurant",
+      "cuisine": "Chinese",
+      "commission_rate": 0.16,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-10-03",
+      "is_active": false
+    },
+    {
+      "restaurant_id": 1217,
+      "restaurant_name": "Mughal Restaurant",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.19,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-08-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1218,
+      "restaurant_name": "Dawat Biryani House",
+      "cuisine": "Burger",
+      "commission_rate": 0.17,
+      "zone": "Banani",
+      "onboarded_date": "2024-07-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1219,
+      "restaurant_name": "Star Cuisine",
+      "cuisine": "Indian",
+      "commission_rate": 0.18,
+      "zone": "Banani",
+      "onboarded_date": "2025-05-10",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1220,
+      "restaurant_name": "Rahim's Bites",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.15,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-12-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1221,
+      "restaurant_name": "Star Khabar Ghor",
+      "cuisine": "Burger",
+      "commission_rate": 0.18,
+      "zone": "Uttara",
+      "onboarded_date": "2025-04-24",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1222,
+      "restaurant_name": "Old Town Fast Food",
+      "cuisine": "Chinese",
+      "commission_rate": 0.18,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-02-27",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1223,
+      "restaurant_name": "Star Dine",
+      "cuisine": "Thai",
+      "commission_rate": 0.15,
+      "zone": "Uttara",
+      "onboarded_date": "2025-03-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1224,
+      "restaurant_name": "Royal Thai House",
+      "cuisine": "Chinese",
+      "commission_rate": 0.17,
+      "zone": "Banani",
+      "onboarded_date": "2022-11-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1225,
+      "restaurant_name": "Mama's Biryani House",
+      "cuisine": "Indian",
+      "commission_rate": 0.17,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-09-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1226,
+      "restaurant_name": "Meghna Chinese Restaurant",
+      "cuisine": "Thai",
+      "commission_rate": 0.16,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-07-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1227,
+      "restaurant_name": "Nawab Canteen",
+      "cuisine": "Indian",
+      "commission_rate": 0.15,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-06-06",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1228,
+      "restaurant_name": "Shahi Bites",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.17,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-07-17",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1229,
+      "restaurant_name": "Jamuna Hotel & Restaurant",
+      "cuisine": "Burger",
+      "commission_rate": 0.16,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-10-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1230,
+      "restaurant_name": "Jamuna Thai House",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.17,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-10-30",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1231,
+      "restaurant_name": "Golden Hotel & Restaurant",
+      "cuisine": "Chinese",
+      "commission_rate": 0.16,
+      "zone": "Banani",
+      "onboarded_date": "2024-01-16",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1232,
+      "restaurant_name": "Dawat Canteen",
+      "cuisine": "Pizza",
+      "commission_rate": 0.18,
+      "zone": "Uttara",
+      "onboarded_date": "2023-12-16",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1233,
+      "restaurant_name": "Meghna Kitchen",
+      "cuisine": "Indian",
+      "commission_rate": 0.16,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-12-25",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1234,
+      "restaurant_name": "New Sweets & Snacks",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.18,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-02-21",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1235,
+      "restaurant_name": "Mama's Sweets & Snacks",
+      "cuisine": "Burger",
+      "commission_rate": 0.16,
+      "zone": "Banani",
+      "onboarded_date": "2025-08-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1236,
+      "restaurant_name": "New Fast Food",
+      "cuisine": "Pizza",
+      "commission_rate": 0.18,
+      "zone": "Uttara",
+      "onboarded_date": "2025-08-09",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1237,
+      "restaurant_name": "Purnima Tehari House",
+      "cuisine": "Pizza",
+      "commission_rate": 0.18,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-12-06",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1238,
+      "restaurant_name": "Mejban Grill",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.15,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-11-01",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1239,
+      "restaurant_name": "Desi Grill",
+      "cuisine": "Burger",
+      "commission_rate": 0.17,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-05-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1240,
+      "restaurant_name": "Sonar Chinese Restaurant",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.17,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-05-29",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1241,
+      "restaurant_name": "Madina Cuisine",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.19,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-07-10",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1242,
+      "restaurant_name": "Zaika Canteen",
+      "cuisine": "Pizza",
+      "commission_rate": 0.18,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-05-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1243,
+      "restaurant_name": "Mejban Cafe",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.16,
+      "zone": "Banani",
+      "onboarded_date": "2024-08-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1244,
+      "restaurant_name": "Banglar Khabar Ghor",
+      "cuisine": "Thai",
+      "commission_rate": 0.17,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-06-06",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1245,
+      "restaurant_name": "Bhojon Khabar Ghor",
+      "cuisine": "Thai",
+      "commission_rate": 0.16,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-07-21",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1246,
+      "restaurant_name": "Khaas Hotel & Restaurant",
+      "cuisine": "Cafe & Dessert",
+      "commission_rate": 0.16,
+      "zone": "Uttara",
+      "onboarded_date": "2023-08-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1247,
+      "restaurant_name": "Mejban Chinese Restaurant",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.19,
+      "zone": "Banani",
+      "onboarded_date": "2025-09-23",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1248,
+      "restaurant_name": "Shapla Khabar Ghor",
+      "cuisine": "Burger",
+      "commission_rate": 0.19,
+      "zone": "Gulshan",
+      "onboarded_date": "2022-12-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1249,
+      "restaurant_name": "Old Town Cafe",
+      "cuisine": "Pizza",
+      "commission_rate": 0.18,
+      "zone": "Banani",
+      "onboarded_date": "2024-01-31",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1250,
+      "restaurant_name": "Jamuna Dine",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.18,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-07-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1251,
+      "restaurant_name": "Purnima Kacchi Ghor",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-03-16",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1252,
+      "restaurant_name": "New Khabar Ghor",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.12,
+      "zone": "Uttara",
+      "onboarded_date": "2024-09-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1253,
+      "restaurant_name": "Ruchi Cafe",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2023-01-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1254,
+      "restaurant_name": "Sultan's Fast Food",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.14,
+      "zone": "Uttara",
+      "onboarded_date": "2023-11-26",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1255,
+      "restaurant_name": "Bhojon Biryani House",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2023-03-29",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1256,
+      "restaurant_name": "Bhojon Food Corner",
+      "cuisine": "Tehari",
+      "commission_rate": 0.12,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-01-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1257,
+      "restaurant_name": "Sultan's Restaurant",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-05-26",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1258,
+      "restaurant_name": "Sonar Eatery",
+      "cuisine": "Tehari",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-08-26",
+      "is_active": false
+    },
+    {
+      "restaurant_id": 1259,
+      "restaurant_name": "Al-Karim Cuisine",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.12,
+      "zone": "Uttara",
+      "onboarded_date": "2022-07-04",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1260,
+      "restaurant_name": "Mejban Hotel & Restaurant",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.14,
+      "zone": "Uttara",
+      "onboarded_date": "2022-12-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1261,
+      "restaurant_name": "Bhojon Cafe",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2023-07-24",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1262,
+      "restaurant_name": "Mughal Eatery",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-01-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1263,
+      "restaurant_name": "Jamuna Bites",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.12,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-01-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1264,
+      "restaurant_name": "Lal Biryani House",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2022-09-19",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1265,
+      "restaurant_name": "Royal Tehari House",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-08-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1266,
+      "restaurant_name": "New Cafe",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.12,
+      "zone": "Uttara",
+      "onboarded_date": "2023-10-16",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1267,
+      "restaurant_name": "Banglar Thai House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-06-09",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1268,
+      "restaurant_name": "Meghna Tehari House",
+      "cuisine": "Kabab",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-05-26",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1269,
+      "restaurant_name": "Bismillah Khabar Ghor",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2023-06-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1270,
+      "restaurant_name": "Meghna Hotel & Restaurant",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2023-11-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1271,
+      "restaurant_name": "Shahi Fast Food",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-08-27",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1272,
+      "restaurant_name": "Jamuna Grill",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-10-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1273,
+      "restaurant_name": "Zaika Tehari House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.13,
+      "zone": "Banani",
+      "onboarded_date": "2025-04-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1274,
+      "restaurant_name": "Al-Karim Canteen",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-01-31",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1275,
+      "restaurant_name": "Ruchi Bites",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-11-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1276,
+      "restaurant_name": "New Dine",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.14,
+      "zone": "Uttara",
+      "onboarded_date": "2023-02-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1277,
+      "restaurant_name": "Old Town Tehari House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-08-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1278,
+      "restaurant_name": "Zaika Thai House",
+      "cuisine": "Kabab",
+      "commission_rate": 0.14,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-05-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1279,
+      "restaurant_name": "New Hotel & Restaurant",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-11-04",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1280,
+      "restaurant_name": "Al-Karim Restaurant",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-11-04",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1281,
+      "restaurant_name": "Dawat Grill",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2024-01-21",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1282,
+      "restaurant_name": "Meghna Cuisine",
+      "cuisine": "Kabab",
+      "commission_rate": 0.14,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-09-27",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1283,
+      "restaurant_name": "Banglar Kacchi Ghor",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2025-03-27",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1284,
+      "restaurant_name": "Purnima Dine",
+      "cuisine": "Snacks",
+      "commission_rate": 0.12,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-10-22",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1285,
+      "restaurant_name": "Sultan's Biryani House",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-10-01",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1286,
+      "restaurant_name": "Desi Sweets & Snacks",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.14,
+      "zone": "Uttara",
+      "onboarded_date": "2023-11-06",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1287,
+      "restaurant_name": "Mejban Thai House",
+      "cuisine": "Kabab",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-10-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1288,
+      "restaurant_name": "Al-Karim Kacchi Ghor",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-01-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1289,
+      "restaurant_name": "Meghna Biryani House",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-10-22",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1290,
+      "restaurant_name": "Mughal Kabab House",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2023-10-12",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1291,
+      "restaurant_name": "Bismillah Hotel & Restaurant",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2025-11-22",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1292,
+      "restaurant_name": "Shapla Cuisine",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2022-08-07",
+      "is_active": false
+    },
+    {
+      "restaurant_id": 1293,
+      "restaurant_name": "Mughal Dine",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2022-09-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1294,
+      "restaurant_name": "Mama's Kacchi Ghor",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2022-07-04",
+      "is_active": false
+    },
+    {
+      "restaurant_id": 1295,
+      "restaurant_name": "Padma Grill",
+      "cuisine": "Tehari",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-11-17",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1296,
+      "restaurant_name": "Bismillah Bites",
+      "cuisine": "Kabab",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-09-21",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1297,
+      "restaurant_name": "Nawab Dine",
+      "cuisine": "Snacks",
+      "commission_rate": 0.14,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-03-10",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1298,
+      "restaurant_name": "Jamuna Kitchen",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2025-05-31",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1299,
+      "restaurant_name": "Bismillah Cafe",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-08-25",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1300,
+      "restaurant_name": "Jamuna Food Corner",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-11-09",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1301,
+      "restaurant_name": "Nawab Khabar Ghor",
+      "cuisine": "Kabab",
+      "commission_rate": 0.13,
+      "zone": "Banani",
+      "onboarded_date": "2024-11-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1302,
+      "restaurant_name": "Padma Tehari House",
+      "cuisine": "Kabab",
+      "commission_rate": 0.13,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-06-24",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1303,
+      "restaurant_name": "Padma Kitchen",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-03-08",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1304,
+      "restaurant_name": "Mama's Kabab House",
+      "cuisine": "Kabab",
+      "commission_rate": 0.12,
+      "zone": "Uttara",
+      "onboarded_date": "2024-07-31",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1305,
+      "restaurant_name": "Banglar Biryani House",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-03-17",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1306,
+      "restaurant_name": "Zaika Kabab House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-09-25",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1307,
+      "restaurant_name": "Nawab Thai House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2022-11-19",
+      "is_active": false
+    },
+    {
+      "restaurant_id": 1308,
+      "restaurant_name": "Jamuna Sweets & Snacks",
+      "cuisine": "Snacks",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-12-04",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1309,
+      "restaurant_name": "Lal Restaurant",
+      "cuisine": "Snacks",
+      "commission_rate": 0.14,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-10-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1310,
+      "restaurant_name": "Bhojon Grill",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-07-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1311,
+      "restaurant_name": "Star Sweets & Snacks",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.14,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-06-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1312,
+      "restaurant_name": "New Grill",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.14,
+      "zone": "Uttara",
+      "onboarded_date": "2024-05-27",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1313,
+      "restaurant_name": "Meghna Thai House",
+      "cuisine": "Tehari",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-02-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1314,
+      "restaurant_name": "Shahi Cafe",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-09-29",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1315,
+      "restaurant_name": "Khaas Restaurant",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.14,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-06-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1316,
+      "restaurant_name": "Star Grill",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-04-29",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1317,
+      "restaurant_name": "Zaika Food Corner",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-02-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1318,
+      "restaurant_name": "Sonar Kabab House",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-10-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1319,
+      "restaurant_name": "Mama's Khabar Ghor",
+      "cuisine": "Snacks",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-06-06",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1320,
+      "restaurant_name": "Shapla Cafe",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-02-19",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1321,
+      "restaurant_name": "Banglar Canteen",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-09-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1322,
+      "restaurant_name": "Desi Cuisine",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2022-08-21",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1323,
+      "restaurant_name": "Shapla Chinese Restaurant",
+      "cuisine": "Kabab",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-09-12",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1324,
+      "restaurant_name": "Royal Cuisine",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-06-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1325,
+      "restaurant_name": "Khaas Khabar Ghor",
+      "cuisine": "Tehari",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-11-06",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1326,
+      "restaurant_name": "Bismillah Tehari House",
+      "cuisine": "Kabab",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-04-22",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1327,
+      "restaurant_name": "Sonar Cuisine",
+      "cuisine": "Tehari",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-12-02",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1328,
+      "restaurant_name": "Banglar Food Corner",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2025-09-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1329,
+      "restaurant_name": "Sonar Sweets & Snacks",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2024-03-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1330,
+      "restaurant_name": "Desi Canteen",
+      "cuisine": "Snacks",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-02-02",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1331,
+      "restaurant_name": "Al-Karim Cafe",
+      "cuisine": "Kabab",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2024-02-23",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1332,
+      "restaurant_name": "Shapla Dine",
+      "cuisine": "Kabab",
+      "commission_rate": 0.13,
+      "zone": "Banani",
+      "onboarded_date": "2025-07-22",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1333,
+      "restaurant_name": "New Biryani House",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.14,
+      "zone": "Uttara",
+      "onboarded_date": "2025-02-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1334,
+      "restaurant_name": "Jamuna Biryani House",
+      "cuisine": "Tehari",
+      "commission_rate": 0.14,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-08-16",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1335,
+      "restaurant_name": "Rahim's Restaurant",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2022-07-29",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1336,
+      "restaurant_name": "Bismillah Dine",
+      "cuisine": "Kabab",
+      "commission_rate": 0.12,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-12-29",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1337,
+      "restaurant_name": "Khan's Kitchen",
+      "cuisine": "Tehari",
+      "commission_rate": 0.14,
+      "zone": "Uttara",
+      "onboarded_date": "2024-12-24",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1338,
+      "restaurant_name": "Madina Khabar Ghor",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.12,
+      "zone": "Uttara",
+      "onboarded_date": "2023-05-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1339,
+      "restaurant_name": "Khan's Thai House",
+      "cuisine": "Kabab",
+      "commission_rate": 0.14,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-01-03",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1340,
+      "restaurant_name": "Sultan's Tehari House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.12,
+      "zone": "Uttara",
+      "onboarded_date": "2024-11-23",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1341,
+      "restaurant_name": "Rahim's Dine",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-04-27",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1342,
+      "restaurant_name": "Golden Food Corner",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-11-19",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1343,
+      "restaurant_name": "Khaas Kacchi Ghor",
+      "cuisine": "Kabab",
+      "commission_rate": 0.12,
+      "zone": "Uttara",
+      "onboarded_date": "2023-08-09",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1344,
+      "restaurant_name": "Zaika Bites",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.12,
+      "zone": "Uttara",
+      "onboarded_date": "2023-09-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1345,
+      "restaurant_name": "Purnima Eatery",
+      "cuisine": "Tehari",
+      "commission_rate": 0.12,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2022-06-19",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1346,
+      "restaurant_name": "New Canteen",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.14,
+      "zone": "Uttara",
+      "onboarded_date": "2023-12-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1347,
+      "restaurant_name": "Lal Thai House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.14,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-08-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1348,
+      "restaurant_name": "Al-Karim Khabar Ghor",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.14,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-11-30",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1349,
+      "restaurant_name": "Old Town Khabar Ghor",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-01-21",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1350,
+      "restaurant_name": "Old Town Biryani House",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.14,
+      "zone": "Banani",
+      "onboarded_date": "2024-02-23",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1351,
+      "restaurant_name": "Khan's Cuisine",
+      "cuisine": "Kabab",
+      "commission_rate": 0.14,
+      "zone": "Uttara",
+      "onboarded_date": "2025-02-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1352,
+      "restaurant_name": "Sonar Kacchi Ghor",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-11-25",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1353,
+      "restaurant_name": "Bhojon Sweets & Snacks",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-11-25",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1354,
+      "restaurant_name": "Mejban Bites",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.12,
+      "zone": "Uttara",
+      "onboarded_date": "2024-05-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1355,
+      "restaurant_name": "Meghna Kacchi Ghor",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-10-06",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1356,
+      "restaurant_name": "Mughal Food Corner",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.14,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-02-01",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1357,
+      "restaurant_name": "Royal Bites",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.12,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-10-12",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1358,
+      "restaurant_name": "Meghna Kabab House",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-05-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1359,
+      "restaurant_name": "Star Bites",
+      "cuisine": "Kabab",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-12-31",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1360,
+      "restaurant_name": "Golden Bites",
+      "cuisine": "Snacks",
+      "commission_rate": 0.14,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-05-04",
+      "is_active": false
+    },
+    {
+      "restaurant_id": 1361,
+      "restaurant_name": "Khaas Food Corner",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.14,
+      "zone": "Uttara",
+      "onboarded_date": "2025-02-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1362,
+      "restaurant_name": "Ruchi Restaurant",
+      "cuisine": "Kabab",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-09-22",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1363,
+      "restaurant_name": "Nawab Bites",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-04-04",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1364,
+      "restaurant_name": "Rahim's Kitchen",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-08-31",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1365,
+      "restaurant_name": "Dawat Khabar Ghor",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.14,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-10-23",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1366,
+      "restaurant_name": "Shahi Grill",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-10-04",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1367,
+      "restaurant_name": "Sultan's Kitchen",
+      "cuisine": "Snacks",
+      "commission_rate": 0.14,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-08-23",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1368,
+      "restaurant_name": "Rahim's Fast Food",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.14,
+      "zone": "Uttara",
+      "onboarded_date": "2023-05-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1369,
+      "restaurant_name": "Banglar Bites",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-04-24",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1370,
+      "restaurant_name": "Zaika Kacchi Ghor",
+      "cuisine": "Snacks",
+      "commission_rate": 0.12,
+      "zone": "Uttara",
+      "onboarded_date": "2022-07-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1371,
+      "restaurant_name": "Lal Food Corner",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.12,
+      "zone": "Uttara",
+      "onboarded_date": "2024-03-31",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1372,
+      "restaurant_name": "Shahi Restaurant",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-08-04",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1373,
+      "restaurant_name": "Rahim's Eatery",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-10-31",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1374,
+      "restaurant_name": "Bhojon Chinese Restaurant",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.14,
+      "zone": "Uttara",
+      "onboarded_date": "2023-12-17",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1375,
+      "restaurant_name": "Khan's Bites",
+      "cuisine": "Snacks",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-07-01",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1376,
+      "restaurant_name": "Bismillah Canteen",
+      "cuisine": "Kabab",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-03-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1377,
+      "restaurant_name": "Royal Restaurant",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-04-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1378,
+      "restaurant_name": "Purnima Cuisine",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-03-31",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1379,
+      "restaurant_name": "Dawat Tehari House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-09-21",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1380,
+      "restaurant_name": "Golden Cafe",
+      "cuisine": "Snacks",
+      "commission_rate": 0.14,
+      "zone": "Banani",
+      "onboarded_date": "2024-01-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1381,
+      "restaurant_name": "Khan's Kabab House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.14,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-02-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1382,
+      "restaurant_name": "Jamuna Kacchi Ghor",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-07-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1383,
+      "restaurant_name": "Old Town Restaurant",
+      "cuisine": "Tehari",
+      "commission_rate": 0.12,
+      "zone": "Uttara",
+      "onboarded_date": "2025-08-18",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1384,
+      "restaurant_name": "Rahim's Kabab House",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-11-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1385,
+      "restaurant_name": "Star Thai House",
+      "cuisine": "Kabab",
+      "commission_rate": 0.14,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-06-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1386,
+      "restaurant_name": "Mughal Cafe",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.13,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2022-08-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1387,
+      "restaurant_name": "Purnima Cafe",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.14,
+      "zone": "Uttara",
+      "onboarded_date": "2025-03-19",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1388,
+      "restaurant_name": "Sultan's Food Corner",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2023-04-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1389,
+      "restaurant_name": "New Bites",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2022-11-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1390,
+      "restaurant_name": "Meghna Grill",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.14,
+      "zone": "Gulshan",
+      "onboarded_date": "2023-12-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1391,
+      "restaurant_name": "Ruchi Food Corner",
+      "cuisine": "Snacks",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-01-04",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1392,
+      "restaurant_name": "Purnima Sweets & Snacks",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-07-30",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1393,
+      "restaurant_name": "Khan's Chinese Restaurant",
+      "cuisine": "Tehari",
+      "commission_rate": 0.14,
+      "zone": "Gulshan",
+      "onboarded_date": "2022-09-21",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1394,
+      "restaurant_name": "Dawat Hotel & Restaurant",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-09-03",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1395,
+      "restaurant_name": "Madina Chinese Restaurant",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-09-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1396,
+      "restaurant_name": "Khaas Biryani House",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.12,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-11-29",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1397,
+      "restaurant_name": "Khan's Canteen",
+      "cuisine": "Kabab",
+      "commission_rate": 0.12,
+      "zone": "Uttara",
+      "onboarded_date": "2025-03-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1398,
+      "restaurant_name": "Meghna Eatery",
+      "cuisine": "Kabab",
+      "commission_rate": 0.12,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-05-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1399,
+      "restaurant_name": "Bhojon Thai House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.13,
+      "zone": "Banani",
+      "onboarded_date": "2024-09-10",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1400,
+      "restaurant_name": "Zaika Kitchen",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2025-08-08",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1401,
+      "restaurant_name": "Bismillah Sweets & Snacks",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-07-25",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1402,
+      "restaurant_name": "Desi Khabar Ghor",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2024-11-04",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1403,
+      "restaurant_name": "Golden Tehari House",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-05-01",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1404,
+      "restaurant_name": "Mejban Cuisine",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-01-06",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1405,
+      "restaurant_name": "Madina Canteen",
+      "cuisine": "Snacks",
+      "commission_rate": 0.14,
+      "zone": "Uttara",
+      "onboarded_date": "2025-09-03",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1406,
+      "restaurant_name": "Zaika Sweets & Snacks",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.12,
+      "zone": "Gulshan",
+      "onboarded_date": "2024-02-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1407,
+      "restaurant_name": "Banglar Kabab House",
+      "cuisine": "Kabab",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2024-05-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1408,
+      "restaurant_name": "Purnima Hotel & Restaurant",
+      "cuisine": "Snacks",
+      "commission_rate": 0.12,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-01-21",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1409,
+      "restaurant_name": "Mejban Tehari House",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-04-20",
+      "is_active": false
+    },
+    {
+      "restaurant_id": 1410,
+      "restaurant_name": "Madina Bites",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-12-25",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1411,
+      "restaurant_name": "Star Eatery",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-06-30",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1412,
+      "restaurant_name": "Shahi Canteen",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-11-10",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1413,
+      "restaurant_name": "Mama's Dine",
+      "cuisine": "Tehari",
+      "commission_rate": 0.12,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-12-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1414,
+      "restaurant_name": "Nawab Cuisine",
+      "cuisine": "Snacks",
+      "commission_rate": 0.14,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-06-03",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1415,
+      "restaurant_name": "Mughal Chinese Restaurant",
+      "cuisine": "Tehari",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-10-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1416,
+      "restaurant_name": "Al-Karim Eatery",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.13,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2025-09-07",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1417,
+      "restaurant_name": "Meghna Food Corner",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-06-14",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1418,
+      "restaurant_name": "Padma Kabab House",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2025-03-19",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1419,
+      "restaurant_name": "Sultan's Sweets & Snacks",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-03-30",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1420,
+      "restaurant_name": "Star Biryani House",
+      "cuisine": "Tehari",
+      "commission_rate": 0.14,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-08-01",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1421,
+      "restaurant_name": "Mughal Tehari House",
+      "cuisine": "Kabab",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2023-01-13",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1422,
+      "restaurant_name": "Padma Food Corner",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-06-28",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1423,
+      "restaurant_name": "Dawat Kacchi Ghor",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2022-06-29",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1424,
+      "restaurant_name": "Jamuna Cuisine",
+      "cuisine": "Snacks",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-05-22",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1425,
+      "restaurant_name": "Ruchi Fast Food",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.12,
+      "zone": "Uttara",
+      "onboarded_date": "2024-05-02",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1426,
+      "restaurant_name": "Khaas Sweets & Snacks",
+      "cuisine": "Snacks",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-01-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1427,
+      "restaurant_name": "Lal Tehari House",
+      "cuisine": "Tehari",
+      "commission_rate": 0.14,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-06-20",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1428,
+      "restaurant_name": "Sonar Biryani House",
+      "cuisine": "Kabab",
+      "commission_rate": 0.12,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2024-02-23",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1429,
+      "restaurant_name": "Nawab Restaurant",
+      "cuisine": "Kabab",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-07-22",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1430,
+      "restaurant_name": "Mejban Food Corner",
+      "cuisine": "Kabab",
+      "commission_rate": 0.14,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-12-15",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1431,
+      "restaurant_name": "Nawab Sweets & Snacks",
+      "cuisine": "Kabab",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2024-11-06",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1432,
+      "restaurant_name": "Mughal Bites",
+      "cuisine": "Kabab",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-04-11",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1433,
+      "restaurant_name": "Bismillah Chinese Restaurant",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.12,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-07-18",
+      "is_active": false
+    },
+    {
+      "restaurant_id": 1434,
+      "restaurant_name": "Zaika Cuisine",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.12,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2025-09-02",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1435,
+      "restaurant_name": "Golden Chinese Restaurant",
+      "cuisine": "Kabab",
+      "commission_rate": 0.14,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-02-01",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1436,
+      "restaurant_name": "New Kabab House",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.13,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2024-05-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1437,
+      "restaurant_name": "Khan's Grill",
+      "cuisine": "Kabab",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2024-11-24",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1438,
+      "restaurant_name": "Sonar Restaurant",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2022-09-05",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1439,
+      "restaurant_name": "Ruchi Kacchi Ghor",
+      "cuisine": "Kabab",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-10-24",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1440,
+      "restaurant_name": "Shahi Biryani House",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.13,
+      "zone": "Mirpur",
+      "onboarded_date": "2023-01-10",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1441,
+      "restaurant_name": "Shapla Food Corner",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.14,
+      "zone": "Mirpur",
+      "onboarded_date": "2025-03-02",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1442,
+      "restaurant_name": "Purnima Canteen",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Mohammadpur",
+      "onboarded_date": "2023-04-06",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1443,
+      "restaurant_name": "Rahim's Tehari House",
+      "cuisine": "Fast Food",
+      "commission_rate": 0.13,
+      "zone": "Gulshan",
+      "onboarded_date": "2025-06-02",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1444,
+      "restaurant_name": "Lal Hotel & Restaurant",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.13,
+      "zone": "Gulshan",
+      "onboarded_date": "2023-08-09",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1445,
+      "restaurant_name": "New Restaurant",
+      "cuisine": "Snacks",
+      "commission_rate": 0.14,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2022-07-16",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1446,
+      "restaurant_name": "Khan's Fast Food",
+      "cuisine": "Tehari",
+      "commission_rate": 0.14,
+      "zone": "Uttara",
+      "onboarded_date": "2023-12-24",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1447,
+      "restaurant_name": "Dawat Cuisine",
+      "cuisine": "Bangladeshi",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2022-11-17",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1448,
+      "restaurant_name": "Sonar Grill",
+      "cuisine": "Tehari",
+      "commission_rate": 0.13,
+      "zone": "Uttara",
+      "onboarded_date": "2022-07-31",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1449,
+      "restaurant_name": "Banglar Cuisine",
+      "cuisine": "Biryani & Kacchi",
+      "commission_rate": 0.13,
+      "zone": "Dhanmondi",
+      "onboarded_date": "2023-06-27",
+      "is_active": true
+    },
+    {
+      "restaurant_id": 1450,
+      "restaurant_name": "Nawab Tehari House",
+      "cuisine": "Tehari",
+      "commission_rate": 0.12,
+      "zone": "Uttara",
+      "onboarded_date": "2023-09-22",
+      "is_active": true
+    }
+  ]
+}

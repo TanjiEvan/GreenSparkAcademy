@@ -1,0 +1,4 @@
+campaign_id,campaign_name,promo_code,discount_pct,start_date,end_date,target_zones,target_tier,status
+CMP-2026-02,Ramadan Iftar Combos,IFTAR20,0.2,2026-03-10,2026-03-29,All,All,completed
+CMP-2026-03,Mirpur-Uttara Budget Blast,MIRP-MAY25,0.25,2026-05-01,2026-05-31,"Mirpur, Uttara",Budget,active
+CMP-2026-01,New Year Free Delivery,NY2026,0.0,2026-01-01,2026-01-07,All,All,completed
